@@ -13,11 +13,10 @@ Texto original: 65 83 67 73 73 32 67 111 100 101 32 105 115 32 115 116 105 108 1
 Texto claro: ASCII Code is still widely used.
 
 Linha 3:
-HEX?
+EBCDIC
 Texto original: C9 A3 40 A2 85 85 94 A2 40 A3 96 40 82 85 40 C1 E2 C3 C9 C9 6B 40 82 A4 A3 40 89 A3 40 89 A2 40 C5 C2 C3 C4 C9 C3 5A
 
-Hex->Dec: 201 163 64 162 133 133 148 162 64 163 150 64 130 133 64 193 226 195 201 201 107 64 130 164 163 64 137 163 64 137 162 64 197 194 195 196 201 195 90
-Texto claro: ?????????????
+Texto claro: It seems to be ASCII, but it is EBCDIC]
 
 Linha 4:
 Base 64
