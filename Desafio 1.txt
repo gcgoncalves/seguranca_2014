@@ -16,7 +16,7 @@ Linha 3:
 EBCDIC
 Texto original: C9 A3 40 A2 85 85 94 A2 40 A3 96 40 82 85 40 C1 E2 C3 C9 C9 6B 40 82 A4 A3 40 89 A3 40 89 A2 40 C5 C2 C3 C4 C9 C3 5A
 
-Texto claro: It seems to be ASCII, but it is EBCDIC]
+Texto claro: It seems to be ASCII, but it is EBCDIC!
 
 Linha 4:
 Base 64
