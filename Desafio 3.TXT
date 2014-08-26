@@ -1,0 +1,27 @@
+cryptographyhasasfundamentalobjectivetoenabletwopeopleusuallyreferredtoas
+aliceandbobtocommunicateoveraninsecurechannelinsuchawaythatanopponentoscar
+cannotunderstandwhatisbeingsaidthischannelcouldbeforexampleatelephoneline
+orcomputernetworktheinformationthatalicewantstosendtobobwhichiscalled
+plaintextcanbeenglishtextnumericaldataoranythingatallaliceencryptsthe
+plaintextusingapredeterminedkeyandsendstheresultingciphertextoverthechannel
+oscaruponseeingtheciphertextinthechannelbyeavesdroppingcannotdeterminewhat
+theplaintextwasbutbobwhoknowstheencryptionkeycandecrypttheciphertextand
+reconstructtheplaintextwithrelativelylittleeffortthenextquizusespermutation
+anditisknownthatthetextfitsperfectlyinarectangularareawherethenumberofrows
+isgreaterthanthenumberofcolumnsitisalsoknownthatthewordbananaappearsseveral
+timesinthetext
+
+cryptography has as fundamental objective to enable two people usually referred to as
+alice and bob to communicate over an insecure channel in such a way that an opponent oscar
+cannot understand what is being said this channel could be for example a telephone line
+or computer network the information that alice wants to send to bob which is called
+plain text can be english text numerical data or anything at all alice encrypts the
+plain text using a predetermined key and sends the resulting cipher text over the channel
+oscar upon seeing the cipher text in the channel by eavesdropping cannot determine what
+the plain text was but bob who knows the encryption key can decrypt the cipher text and
+reconstruct the plain text with relatively little effort the next quiz uses permutation
+and it is known that the text fits perfectly in a rectangular area where the number of rows
+is greater than the number of columns it is also known that the word banana appears several
+times in the text
+
+cmggldfcjdgldgdhaeegkkmphflecdkf
