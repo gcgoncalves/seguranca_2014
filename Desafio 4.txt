@@ -1,0 +1,19 @@
+banana is the common name used for herbaceous cultigenic plants in the genus musa
+and is also the name given the fruit of these plants banana plants are cultivated
+primarily for their fruit and for the production of fiber and as ornamental plants
+they are native to tropical southeastern asia but are widely cultivated in tropical
+regions because of their size and structure banana plants are often mistaken for 
+trees the banana fruit grow in hanging clusters with up to twenty fruit to a tier 
+and three to twenty tiers to a bunch each individual banana has a protective outer 
+layer with a fleshy edible inner portion bananas are a valuable source of vitamin 
+and potassium bananas are grown in one hundred and thirty two countries worldwide 
+more than any other fruit crop bananas come in a variety of sizes and colors most 
+cultivars are yellow when ripe 
+for the fifth cryptographic challenge you will need to implement a reduced brute 
+force attack against a text encrypted with the advanced encryption algorithm or aes 
+for short in the electronic codebook mode or ecb for short but without the knowledge 
+of the corresponding plain text and you should be able to analyze a string of bytes
+and find a way of distinguish between random gibberish and a coherent phrase written
+in portuguese
+
+lgggdbfhlnnol
