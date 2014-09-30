@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from Crypto.Cipher import AES
 from Crypto.Util import RFC1751
 import binascii
@@ -82,4 +83,4 @@ for i in a:
 key = ''.join(b)
 decrypter = AES.new(key, AES.MODE_ECB)
 message = decrypter.decrypt(c_message)
-print message
+print(message.decode('latin-1'))
